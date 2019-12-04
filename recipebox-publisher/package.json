@@ -1,0 +1,22 @@
+{
+  "name": "recipebox-publisher",
+  "version": "0.1.0",
+  "description": "Publish recipes for your friends and family!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zinc-collective/recipe-box.git"
+  },
+  "keywords": [
+    "cooking"
+  ],
+  "author": "Zinc Collective LLC",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/zinc-collective/recipe-box/issues"
+  },
+  "homepage": "https://github.com/zinc-collective/recipe-box#readme"
+}
