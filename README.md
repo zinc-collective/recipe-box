@@ -1,3 +1,5 @@
+Archived in favor of [Convene's RecipeBox](https://github.com/zinc-collective/convene/issues/881)
+
 ![Box of note cards with a heirloom tomato on the front](./design/logo.png)
 # Recipe Box
 Healthier lives through healthier cooking.
